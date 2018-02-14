@@ -13,10 +13,22 @@ public class Trigonometrica extends Calculadora {
     
     public Trigonometrica (){
         
+             
+          
+      }
+        public static void coseno (){
+        double anguloRadianes;
+            
+            r = Math.cos(anguloRadianes);
+
+    
     
         
-    }
+    } 
         
+    
         
-    }
+    }        
+        
+    
     
