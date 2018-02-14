@@ -29,5 +29,34 @@ public class Calculadora {
     void restar() {
          r = x - y;
        
-        }       
+        }  
+    public void setX(double operando1) {
+        this.x = (float) operando1;
+        
+                
+    }
+    public double getX(){
+            return x;
+}
+    
+    
+ public void setY(double operando2) {
+        this.y = (float) operando2;
+ }   
+              
+       public double getY(){
+            return y;
+}
+    
+    
+    public void setR() {
+      
+        this r=r;
+    }
+          
+    public double getR(){
+            
+           
+            return r;
+    }
 }
